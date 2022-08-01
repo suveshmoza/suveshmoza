@@ -47,8 +47,8 @@
 <div align="center"> 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suveshmoza&theme=github_dark"/>
   <div>
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=suveshmoza&show_icons=true&theme=github_dark&hide_border=true"  /> 
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suveshmoza&layout=compact&theme=github_dark&hide_border=true" />
+  <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=suveshmoza&show_icons=true&theme=github_dark&hide_border=true"  /> 
+  <img align="right" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suveshmoza&layout=compact&theme=github_dark&hide_border=true" />
   <div>
 </div>
 
