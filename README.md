@@ -43,12 +43,9 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suveshmoza/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/suveshmoza/)
 
-### Github Stats
-<div align="center"> 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suveshmoza&theme=github_dark"/>
-  <div>
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=suveshmoza&show_icons=true&theme=github_dark&hide_border=true"  /> 
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suveshmoza&layout=compact&theme=github_dark&hide_border=true" />
-  <div>
-</div>
 
+<summary><b>⚡ Github Stats</b></summary>
+  <p align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suveshmoza&show_icons=true&theme=github_dark&hide_border=true"  align = "center"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suveshmoza&layout=compact&theme=github_dark&hide_border=true" align = "center"/>
+  </p>
