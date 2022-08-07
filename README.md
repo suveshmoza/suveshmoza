@@ -13,7 +13,7 @@
 
 - 👷 &nbsp; Currently building projects using ReactJS and learning typescript and blockchain.
 - 🤝 &nbsp; Open for collaborations in web development projects.
-- 📝 &nbsp; [Resume](https://docs.google.com/document/d/14ZLUMP-EN9uLtcQIj9U7tmmMLdhAvzki2CnrovegLUQ/edit?usp=sharing).
+- 📝 &nbsp; Check out my [Resume](https://drive.google.com/file/d/1WIyyVKp9UJaSqJlw_sMnNF0LelAFIe1o/view).
 
 ### My Tech Stack
 - Programming languages : <br />
