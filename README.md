@@ -12,9 +12,9 @@
 ### More about me:
 
 - 👷 &nbsp; Currently building projects using ReactJS and NodeJS.
-- 🔨 &nbsp; Interested in learning TypeScript and React Native.
+- 🔨 &nbsp; Learning TypeScript and React Native.
 - 🤝 &nbsp; Would love to collaborate.
-- 📝 &nbsp; Check out my [Resume](https://drive.google.com/file/d/1e31PH67O6Yb0dy1EvQtLakme3WCC8qCi/view).
+- 📝 &nbsp; Check out my [Resume](https://drive.google.com/file/d/1smfZBQK4srUUMt8dG7rhFgCsqW-e-WtV/view?usp=sharing).
 - 👀 &nbsp; Check my [Portfolio](https://suveshmoza.me)
 
 ### My Tech Stack
