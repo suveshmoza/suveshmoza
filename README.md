@@ -6,7 +6,7 @@ I'm a final year Computer Science grad based in India. I'm passionate about soft
 - 💬 Ask me about React, DSA, JS
 - 📫 How to reach me: [Email](mailto:hellosuvesh@gmail.com) or [LinkedIn](https://www.linkedin.com/in/suveshmoza/)
 - 😄 Pronouns: he/him
-- 👀 Checkout my [Portfolio](https://www.suveshmoza.me/) and [Resume](https://drive.google.com/file/d/15exn2h_TZXiMMuBNp3s8CG1jeDTwODXr/view?usp=sharing) 
+- 👀 Checkout my [Portfolio](https://www.suveshmoza.me/) and [Resume](https://drive.google.com/file/d/1jStUaThNdDjuED7YxP4TDwaN-jjxw5B7/view?usp=sharing) 
 
 ### My Skills
 
