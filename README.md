@@ -1,9 +1,9 @@
 ### Hi there, I'm Suvesh Moza 👋
 
-I'm a final year Computer Science grad based in India. I'm passionate about software development, open-source and enjoy building cool stuff.
+I'm a Computer Science grad based in India. I'm passionate about software development, open-source and enjoy building cool stuff.
 
-- 🌱 I’m currently learning React Native and TypeScript
-- 💬 Ask me about React, DSA, JS
+- 🌱 I’m currently learning and building projects using React,React Native and TypeScript.
+- 💬 Ask me about React, DSA, JS.
 - 📫 How to reach me: [Email](mailto:hellosuvesh@gmail.com) or [LinkedIn](https://www.linkedin.com/in/suveshmoza/)
 - 😄 Pronouns: he/him
 - 👀 Checkout my [Portfolio](https://www.suveshmoza.me/) and [Resume](https://drive.google.com/file/d/1jStUaThNdDjuED7YxP4TDwaN-jjxw5B7/view?usp=sharing) 
