@@ -17,8 +17,8 @@ I'm a Computer Science grad based in India. I'm passionate about software develo
 
 ### Some of my GitHub Stats
 
-<p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suveshmoza&layout=compact&theme=github_dark&hide_border=true" align = "center"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suveshmoza&show_icons=true&theme=github_dark&hide_border=true"  align = "center"/>
- </p>
+<div align="center">  
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats? username=suveshmoza&theme=github_dark" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suveshmoza&theme=github_dark"/>
+</div>
 
