@@ -17,6 +17,8 @@ I'm a Computer Science grad based in India. I'm passionate about software develo
 ### Hashnode Blog Post
 
 <!-- HASHNODE:START -->
+- [Polyfills for map, filter and reduce | JavaScript Interview](https://suveshmoza.hashnode.dev/polyfills-for-map-filter-and-reduce-javascript-interview)
+- [Docker For Beginners](https://suveshmoza.hashnode.dev/docker-for-beginners)
 <!-- HASHNODE:END -->
 
 ### GitHub Stats
