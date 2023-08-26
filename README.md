@@ -6,7 +6,7 @@ I'm a Computer Science grad based in India. I'm passionate about software develo
 - 💬 Ask me about React, DSA, JS.
 - 📫 How to reach me: [Email](mailto:hellosuvesh@gmail.com) or [LinkedIn](https://www.linkedin.com/in/suveshmoza/)
 - 😄 Pronouns: he/him
-- 👀 Checkout my [Portfolio](https://bento.me/suveshmoza) and [Resume](https://drive.google.com/file/d/1jStUaThNdDjuED7YxP4TDwaN-jjxw5B7/view?usp=sharing)
+- 👀 Checkout my [Portfolio](https://suveshmoza.vercel.app/) and [Resume](https://drive.google.com/file/d/1pnw3Twq7UNFK6j1OmdNM47VvSVB1F4Jp/view?usp=sharing)
 
 ### My Skills
 
