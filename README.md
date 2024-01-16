@@ -17,11 +17,11 @@ I'm a Computer Science grad based in India. I'm passionate about software develo
 ### Hashnode Blog Post
 
 <!-- HASHNODE:START -->
+- [What is a Load Balancer?](https://suveshmoza.hashnode.dev/what-is-a-load-balancer)
 - [What is Horizontal Scaling? 🤔](https://suveshmoza.hashnode.dev/what-is-horizontal-scaling)
 - [What is Vertical Scaling? 🤔](https://suveshmoza.hashnode.dev/what-is-vertical-scaling)
 - [A Step-By-Step Guide to Create an ATS-Friendly Resume 📝](https://suveshmoza.hashnode.dev/a-step-by-step-guide-to-create-an-ats-friendly-resume)
 - [Promises in JavaScript](https://suveshmoza.hashnode.dev/promises-in-javascript)
-- [REST APIs in depth](https://suveshmoza.hashnode.dev/rest-apis-in-depth)
 <!-- HASHNODE:END -->
 
 ### GitHub Stats
