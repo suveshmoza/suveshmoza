@@ -17,11 +17,11 @@ I'm a Computer Science grad based in India. I'm passionate about software develo
 ### Hashnode Blog Post
 
 <!-- HASHNODE:START -->
+- [Coercion in JavaScript](https://suveshmoza.hashnode.dev/coercion-in-javascript)
 - [Debouncing and Throttling in JavaScript](https://suveshmoza.hashnode.dev/debouncing-and-throttling-in-javascript)
 - [Just In Time Compilation in JavaScript](https://suveshmoza.hashnode.dev/just-in-time-compilation-in-javascript)
 - [What is a Load Balancer?](https://suveshmoza.hashnode.dev/what-is-a-load-balancer)
 - [What is Horizontal Scaling? 🤔](https://suveshmoza.hashnode.dev/what-is-horizontal-scaling)
-- [What is Vertical Scaling? 🤔](https://suveshmoza.hashnode.dev/what-is-vertical-scaling)
 <!-- HASHNODE:END -->
 
 ### GitHub Stats
